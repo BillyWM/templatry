@@ -1,0 +1,12 @@
+{
+  "name": "templatetry",
+  "version": "0.1.0",
+  "description": "A story generator based on templates",
+  "main": "index.js",
+  "author": "William Wenge-Murphy <billy@wenge-murphy.com>",
+  "license": "MIT",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-stage-2": "^6.24.1"
+  }
+}
